@@ -5,7 +5,13 @@
 
 int main()
 {
+    char name[8];
+    int a;
+    std::cin >> a;
+
     std::cout << "Hello World!\n";
+    std::cin >> name;
+    std::cout << name;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

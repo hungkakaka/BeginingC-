@@ -1,0 +1,5 @@
+1 Các loại toán tử trong c++
+- Toán tử đơn(unary operator) ví dụ -5
+- Toán tử nhị phân(binary operator):  + 
+- Toán tử terany opreators
+3 Chuỗi operator
